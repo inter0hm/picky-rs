@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:12.9-slim
 LABEL maintainer "Devolutions Inc."
 
 WORKDIR /opt/wayk
